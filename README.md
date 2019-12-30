@@ -8,9 +8,9 @@ I live in Hyderabad, in the state of Telangana, in India.
 
 I love to play and watch football.
 I sing and play:
--Guitar
--Keys
--Drums
+- Guitar
+- Keys
+- Drums
 
 ### Contact
 
