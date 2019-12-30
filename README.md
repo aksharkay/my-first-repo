@@ -1,10 +1,10 @@
 # Akshar Kommajosyula
 
-##Geography
+###Geography
 
 I live in Hyderabad, in the state of Telangana, in India.
 
-##Hobbies
+###Hobbies
 
 I love to play and watch football.
 I sing and play:
@@ -12,7 +12,7 @@ I sing and play:
 -Keys
 -Drums
 
-## Contact
+### Contact
 
 The best way to get in touch with me is [on E-mail](https://gmail.com/aksharkomm).
 
